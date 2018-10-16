@@ -1,0 +1,26 @@
+.show {
+    color: red; 
+}
+.movie{
+    color: orange;
+}
+.song{
+    color: blue;
+}
+.singer{
+    color: yellow;
+}
+img{
+    width: 300px;
+}
+h1{
+  font-family: 'Fira Sans', sans-serif;
+}
+body{
+   background-image:url( "https://static1.squarespace.com/static/50fdc822e4b03aa4e2b9f11a/t/53962459e4b07d4ea4505094/1402348667293/Silver+Glitter+Phone+Wallpaper");
+}
+p{
+  color:black;
+  font-family: 'Crimson Text', serif;
+ 
+}
